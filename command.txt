@@ -1,0 +1,1 @@
+& "C:/Program Files/Python312/python.exe" "E:/T2510638/TorqueSAM/RenSeg-main/RenSeg-main/kidney_pathology_segmentation.py" --ct-dir "E:/T2510638/TorqueSAM/RenSeg-main/RenSeg-main/data/test" --mask-dir "E:/T2510638/TorqueSAM/RenSeg-main/RenSeg-main/medsam_seg_outputs2/raw_masks" --output-dir "E:/T2510638/TorqueSAM/RenSeg-main/RenSeg-main/outputs"
